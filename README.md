@@ -24,7 +24,7 @@ Does randomly splitting overlapping temporal windows produce an overly optimisti
         └── notebook_results.csv
 ```
 
-The raw data files are not included in GitHub. See [`raw/README.md`](raw/README.md) for how to obtain and place them.
+
 
 ## Dataset
 
